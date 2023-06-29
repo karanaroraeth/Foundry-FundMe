@@ -12,7 +12,7 @@ docs/
 
 # Dotenv file
 .env
-
+.keystore
 broadcast/
 lib/
 .vscode/settings.json
